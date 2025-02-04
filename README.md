@@ -33,33 +33,8 @@
 
 ---
 
-## 🔥 近期项目
-<!-- 使用 GitHub Readme Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MzFC3S&theme=react-dark&hide_border=true&area=true)
 
----
-
-## ✨ 精选项目
-<!-- 项目卡片展示 -->
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎮 游戏引擎</h3>
-      <a href="https://github.com/MzFC3S/你的项目">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MzFC3S&repo=你的项目&theme=radical" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🤖 AI 助手</h3>
-      <a href="https://github.com/MzFC3S/你的项目">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MzFC3S&repo=你的项目&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🎮 正在玩的游戏
 <!-- Steam 动态卡片 -->
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/你的SteamID)
+[![Steam](https://img.shields.io/badge/Steam-76561198100700383](https://steamcommunity.com/profiles//games/?tab=all)?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/76561198100700383)
