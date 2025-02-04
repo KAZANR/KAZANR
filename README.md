@@ -16,22 +16,6 @@
 ---
 
 ## 🛠️ 技术栈与工具
-![](https://skillicons.dev/icons?i=python,git,github,linux,vscode)
+![](https://skillicons.dev/icons?i=python,git,github)
 
 ---
-
-## 📊 GitHub 动态统计
-
-<!-- GitHub 统计卡片 -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MzFC3S&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MzFC3S&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" />
-</div>
-
-<!-- GitHub 连续贡献图 -->
-![Snake Animation](https://raw.githubusercontent.com/MzFC3S/MzFC3S/main/github-contribution-grid-snake.svg)
-
-
-
-
-
