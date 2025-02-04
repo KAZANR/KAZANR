@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ 技术栈与工具
-![](https://skillicons.dev/icons?i=python,java,js,react,nodejs,aws,docker,git,github,postgresql,linux,vscode)
+![](https://skillicons.dev/icons?i=python,git,github,linux,vscode)
 
 ---
 
@@ -31,10 +31,7 @@
 <!-- GitHub 连续贡献图 -->
 ![Snake Animation](https://raw.githubusercontent.com/MzFC3S/MzFC3S/main/github-contribution-grid-snake.svg)
 
----
 
 
 
-## 🎮 正在玩的游戏
-<!-- Steam 动态卡片 -->
-[![Steam](https://img.shields.io/badge/Steam-76561198100700383](https://steamcommunity.com/profiles//games/?tab=all)?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/76561198100700383)
+
