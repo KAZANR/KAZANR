@@ -3,8 +3,8 @@
 <!-- 动态打字效果，添加更多样式 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <!-- 将 size 参数从 40 调整为 24，可根据实际情况进一步调整 -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&lines=若为自由故 万物皆可抛" alt="动态打字效果" />
+    <!-- 调整 size 参数避免文字显示不全 -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&lines=若为自由故 万物皆可抛" alt="动态打字效果" />
   </a>
 </div>
 
@@ -27,19 +27,6 @@
   <!-- 技术栈展示，添加旋转动画 -->
   <img src="https://skillicons.dev/icons?i=python,git,github&theme=dark&perline=3" style="animation: spin 10s linear infinite; margin-top: 10px;" alt="技术栈" />
   
-  <style>
-    @keyframes spin {
-      from {
-        transform: rotate(0deg);
-      }
-      到 {
-        transform: rotate(360deg);
-      }
-    }
-    a img:hover {
-      transform: scale(1.1);
-    }
-  </style>
 </div>
 
 <!-- 分割线，添加渐变效果 -->
@@ -56,16 +43,6 @@
 <!-- 动画效果，添加放大缩小动画 -->
 <div align="center">
   <img src="https://media.giphy.com/media/3o7buijTqhjxjbEqjK/giphy.gif" style="animation: zoom 3s ease infinite; width: 250px;" alt="代码动画" />
-  <style>
-    @keyframes zoom {
-      0%， 100% {
-        transform: scale(1);
-      }
-      50% {
-        transform: scale(1.1);
-      }
-    }
-  </style>
 </div>
 
 ## 📈 贡献视图
@@ -84,5 +61,29 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAZANR&layout=compact&theme=tokyonight&bg_color=30,FF1493,FF8C00&title_color=fff&text_color=fff" style="border-radius: 10px; box-shadow: 0 0 20px #FF1493;" alt="最常用语言" />
 </div>
+
+<!--
+<style>
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  a img:hover {
+    transform: scale(1.1);
+  }
+  @keyframes zoom {
+    0%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+  }
+</style>
+-->
 
 ---
