@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
 # 🌟 嘿，我是超酷的 **KAZANR**！
 
 <!-- 动态打字效果，添加更多样式 -->
@@ -8,7 +17,7 @@
 </div>
 
 <!-- 居中显示社交信息，添加渐变背景 -->
-<div align="center" class="social-info">
+<div class="social-info">
   
   <!-- 访客统计，添加发光效果 -->
   <a href="https://github.com/KAZANR">
@@ -61,83 +70,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAZANR&layout=compact&theme=tokyonight&bg_color=30,FF1493,FF8C00&title_color=fff&text_color=fff" class="top-langs" alt="最常用语言" />
 </div>
 
-<style>
-  /* 社交信息区域样式 */
-  .social-info {
-    background: linear-gradient(45deg, #FF1493, #FF8C00);
-    padding: 20px;
-    border-radius: 10px;
-  }
-
-  /* 访客统计发光效果 */
-  .visitor-count {
-    box-shadow: 0 0 10px yellow;
-  }
-
-  /* 社交链接悬停动画 */
-  .social-link img {
-    transition: transform 0.3s ease;
-  }
-  .social-link img:hover {
-    transform: scale(1.1);
-  }
-
-  /* 技术栈旋转动画 */
-  .tech-stack {
-    animation: spin 10s linear infinite;
-    margin-top: 10px;
-  }
-
-  /* 分割线渐变效果 */
-  .gradient-hr {
-    border: 3px solid;
-    border-image: linear-gradient(45deg, #FF1493, #FF8C00) 1;
-    border-radius: 5px;
-  }
-
-  /* 代码动画放大缩小动画 */
-  .code-animation {
-    animation: zoom 3s ease infinite;
-    width: 250px;
-  }
-
-  /* GitHub 贡献日历样式 */
-  .contribution-calendar {
-    border-radius: 10px;
-    box-shadow: 0 0 20px #FF1493;
-  }
-
-  /* 仓库统计样式 */
-  .repo-stats {
-    border-radius: 10px;
-    box-shadow: 0 0 20px #FF8C00;
-  }
-
-  /* 最常用语言样式 */
-  .top-langs {
-    border-radius: 10px;
-    box-shadow: 0 0 20px #FF1493;
-  }
-
-  /* 旋转动画关键帧 */
-  @keyframes spin {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
-
-  /* 放大缩小动画关键帧 */
-  @keyframes zoom {
-    0%, 100% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.1);
-    }
-  }
-</style>
-
----
+</body>
+</html>
