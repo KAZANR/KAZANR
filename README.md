@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <!-- 调整 size 参数避免文字显示不全 -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&lines=若为自由故 万物皆可抛" alt="动态打字效果" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&lines=若为自由故 万物可抛" alt="动态打字效果" />
   </a>
 </div>
 
